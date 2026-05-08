@@ -1,0 +1,69 @@
+{
+  "conversationId": "81b7a644-69c2-430c-8f89-0eaf9d922369",
+  "title": "Error Checking in PaymentController",
+  "requesterUsername": "gauritachoukekar",
+  "responderUsername": "GitHub Copilot",
+  "turns": [
+    {
+      "message": {
+        "text": "please check  the error"
+      },
+      "currentDocument": {
+        "uri": "/create-session-integration/src/main/java/com/hulkhiretech/payments/controller/PaymentController.java"
+      },
+      "references": [],
+      "ignoredSkills": [],
+      "userLanguage": "en",
+      "source": "panel",
+      "model": "GPT-4.1",
+      "chatMode": "Agent",
+      "customChatModeId": "Agent",
+      "needToolCallConfirmation": true,
+      "turnId": "5a1e65ed-2a4a-42b9-864a-8f68361fd02d",
+      "role": "user",
+      "timestamp": "2026-02-22T17:51:33.966589800Z"
+    },
+    {
+      "reply": {
+        "annotations": [],
+        "references": [],
+        "hideText": false,
+        "notifications": [],
+        "followups": [],
+        "errorMessages": [],
+        "editAgentRounds": [
+          {
+            "roundId": 1,
+            "reply": "",
+            "toolCalls": [
+              {
+                "id": "call_kemXmuehJXF9Vv9OEdqyIfyk",
+                "name": "get_errors",
+                "progressMessage": "Ran get_errors tool",
+                "status": "completed",
+                "result": []
+              }
+            ]
+          },
+          {
+            "roundId": 2,
+            "reply": "There are no compile or lint errors detected in PaymentController.java. If you are experiencing runtime issues or errors elsewhere, please specify or provide additional context.",
+            "toolCalls": []
+          }
+        ],
+        "panelMessages": [],
+        "steps": [],
+        "agentMessages": [],
+        "data": {},
+        "modelName": "GPT-4.1",
+        "billingMultiplier": 1.0
+      },
+      "suggestedTitle": "Error Checking in PaymentController",
+      "turnId": "b9ebf135-5f64-4a47-99d7-35009d3d5246",
+      "role": "copilot",
+      "timestamp": "2026-02-22T17:51:35.381842200Z"
+    }
+  ],
+  "creationDate": "2026-02-22T17:51:33.767230200Z",
+  "lastMessageDate": "2026-02-22T17:51:40.947597500Z"
+}

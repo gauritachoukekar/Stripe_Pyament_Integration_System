@@ -1,0 +1,56 @@
+{
+  "conversationId": "c5453eb0-fdea-4617-b25c-4b02afd25bdb",
+  "title": "create all jsonutillclass @component includes two ...",
+  "requesterUsername": "gauritachoukekar",
+  "responderUsername": "GitHub Copilot",
+  "turns": [
+    {
+      "message": {
+        "text": "create all jsonutillclass @component includes two methods convertJsonToObject\r\n\r\nconvertObjectToJson use jackson library and write logic for both the method   convertJsonToObject takes input as json string and java class type to convert accordingky the methods convert to object and return back if any exception in processing return null you take object as input and convert to json and return if any exception return null"
+      },
+      "currentDocument": {
+        "uri": "/create-session-integration/src/main/java/com/hulkhiretech/payments/service/impl/PaymentServiceImpl.java"
+      },
+      "references": [],
+      "ignoredSkills": [],
+      "userLanguage": "en",
+      "source": "panel",
+      "model": "GPT-4.1",
+      "chatMode": "Agent",
+      "customChatModeId": "Agent",
+      "needToolCallConfirmation": true,
+      "turnId": "882c32ac-cfb9-4987-8d90-22f05f7e16be",
+      "role": "user",
+      "timestamp": "2026-02-28T07:53:27.032533Z"
+    },
+    {
+      "reply": {
+        "annotations": [],
+        "references": [],
+        "hideText": false,
+        "notifications": [],
+        "followups": [],
+        "errorMessages": [
+          {
+            "error": {
+              "message": "You\u0027ve reached your monthly chat messages quota. Upgrade to Copilot Pro (30-day free trial) or wait for your allowance to renew. Request ID: c00aa69f-019e-4651-bdd7-76b73f910f42",
+              "code": 402
+            }
+          }
+        ],
+        "editAgentRounds": [],
+        "panelMessages": [],
+        "steps": [],
+        "agentMessages": [],
+        "data": {},
+        "modelName": "GPT-4.1",
+        "billingMultiplier": 1.0
+      },
+      "turnId": "0c27582c-b559-4cb7-b8da-48c7334f1952",
+      "role": "copilot",
+      "timestamp": "2026-02-28T07:53:28.472782Z"
+    }
+  ],
+  "creationDate": "2026-02-28T07:53:26.962956700Z",
+  "lastMessageDate": "2026-02-28T07:53:30.294255300Z"
+}

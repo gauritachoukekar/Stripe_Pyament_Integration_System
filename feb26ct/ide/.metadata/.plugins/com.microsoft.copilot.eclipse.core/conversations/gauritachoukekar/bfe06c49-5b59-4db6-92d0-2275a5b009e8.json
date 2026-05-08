@@ -1,0 +1,82 @@
+{
+  "conversationId": "bfe06c49-5b59-4db6-92d0-2275a5b009e8",
+  "title": "Creating a TestController in Spring Boot",
+  "requesterUsername": "gauritachoukekar",
+  "responderUsername": "GitHub Copilot",
+  "turns": [
+    {
+      "message": {
+        "text": "create a new TestController "
+      },
+      "currentDocument": {
+        "uri": "/stripe-provider-service/src/main/java/com/hulkhiretech/payments/controller/AdditionController.java"
+      },
+      "references": [],
+      "ignoredSkills": [],
+      "userLanguage": "en",
+      "source": "panel",
+      "model": "GPT-4.1",
+      "chatMode": "Agent",
+      "customChatModeId": "Agent",
+      "needToolCallConfirmation": true,
+      "turnId": "89a03948-15b0-4a68-95f0-7ec359c227d4",
+      "role": "user",
+      "timestamp": "2026-02-17T14:52:48.263985700Z"
+    },
+    {
+      "reply": {
+        "annotations": [],
+        "references": [],
+        "hideText": false,
+        "notifications": [],
+        "followups": [],
+        "errorMessages": [],
+        "editAgentRounds": [
+          {
+            "roundId": 1,
+            "reply": "To create a new TestController, I will:\n\n1. Create a new Java class named TestController in the same package as AdditionController (com.hulkhiretech.payments.controller).\n2. Annotate it with @RestController.\n3. Add a simple test endpoint, e.g., @GetMapping(\"/test\") that returns a string like \"Test successful\".\n\nThis will follow Spring Boot conventions and provide a basic test endpoint for verification.\n\nI will now proceed to create the new TestController.java file.",
+            "toolCalls": [
+              {
+                "id": "call_D1f2JuBWBzPtBeMHJ7oxE5Hw",
+                "name": "create_file",
+                "progressMessage": "Created [TestController.java](file:///c%3A/ctws/feb26ct/repo/stripe-provider-service-feb26ct/stripe-provider-serviceinitialsetup/src/main/java/com/hulkhiretech/payments/controller/TestController.java)",
+                "status": "completed",
+                "result": []
+              }
+            ]
+          },
+          {
+            "roundId": 2,
+            "reply": "",
+            "toolCalls": [
+              {
+                "id": "call_6ZlhruPmCg3hlS0MGZYXh1LY",
+                "name": "get_errors",
+                "progressMessage": "Ran get_errors tool",
+                "status": "completed",
+                "result": []
+              }
+            ]
+          },
+          {
+            "roundId": 3,
+            "reply": "The new TestController has been created successfully in the correct package with a simple \"/test\" endpoint, and there are no errors in the file. The task is complete. If you need further customization or want to test the endpoint, let me know!",
+            "toolCalls": []
+          }
+        ],
+        "panelMessages": [],
+        "steps": [],
+        "agentMessages": [],
+        "data": {},
+        "modelName": "GPT-4.1",
+        "billingMultiplier": 1.0
+      },
+      "suggestedTitle": "Creating a TestController in Spring Boot",
+      "turnId": "cfaa310f-871d-4e25-b222-02ba92f84111",
+      "role": "copilot",
+      "timestamp": "2026-02-17T14:52:50.023958500Z"
+    }
+  ],
+  "creationDate": "2026-02-17T14:52:48.214401300Z",
+  "lastMessageDate": "2026-02-17T14:53:02.157775Z"
+}

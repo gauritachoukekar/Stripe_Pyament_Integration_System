@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><user username="gauritachoukekar">
+    <conversations>
+        <conversation conversationId="fff9e87d-06ac-4449-96cb-2e338304c17c" creationDate="2026-02-11T05:01:32.745833400Z" lastMessageDate="2026-02-11T05:14:08.431689600Z" title="//create logger object using  Slf4j with Logback i..."/>
+        <conversation conversationId="ba4f2fc9-4057-4d33-aa7b-237ec7c57378" creationDate="2026-02-11T10:11:22.245885700Z" lastMessageDate="2026-02-11T11:09:38.193282Z" title="//create logger object using  Slf4j with Logback i..."/>
+        <conversation conversationId="a1a6418f-e5bf-4e40-9868-ede6310aa762" creationDate="2026-02-11T11:13:23.116051100Z" lastMessageDate="2026-02-11T11:20:00.188208700Z" title="Resolving Logger Issues and Dependency Injection"/>
+        <conversation conversationId="a8945b46-b360-457b-ab73-c6ddde2e2a98" creationDate="2026-02-11T14:13:06.823460400Z" lastMessageDate="2026-02-11T16:31:48.043275200Z" title="Code Review for AddController"/>
+        <conversation conversationId="ee84383e-eae1-45f0-b196-17d4ad407bf8" creationDate="2026-02-12T09:36:16.221227300Z" lastMessageDate="2026-02-12T09:37:06.563035900Z" title="Renaming AddController to MathController"/>
+        <conversation conversationId="6cb8c1c0-b6b4-4cc1-b298-161d5c3a4b10" creationDate="2026-02-16T14:49:11.060862900Z" lastMessageDate="2026-02-16T14:50:18.885676300Z" title="the code is not working"/>
+        <conversation conversationId="bfe06c49-5b59-4db6-92d0-2275a5b009e8" creationDate="2026-02-17T14:52:48.214401300Z" lastMessageDate="2026-02-17T14:53:02.157775Z" title="Creating a TestController in Spring Boot"/>
+        <conversation conversationId="ee137761-4de7-4808-9043-867585719fca" creationDate="2026-02-17T16:32:00.454341600Z" lastMessageDate="2026-02-17T18:08:20.741797500Z" title="Implementing and Testing myMethodPost Endpoint"/>
+        <conversation conversationId="8b9f0f85-a5d4-40ad-b285-73b9538c08f8" creationDate="2026-02-18T06:12:59.726077600Z" lastMessageDate="2026-02-18T06:17:47.940942700Z" title="Enhancing TestController with myMethod"/>
+        <conversation conversationId="0e79bca1-fa5c-490a-82e0-dd1278199021" creationDate="2026-02-18T17:01:09.504255400Z" lastMessageDate="2026-02-18T17:48:47.653487700Z" title="Reviewing TestController Code"/>
+        <conversation conversationId="f48c69b1-4999-4222-953a-b2e0e4501e3f" creationDate="2026-02-19T04:59:52.288310900Z" lastMessageDate="2026-02-19T10:25:26.786631900Z" title="Testing POJOs with Lombok"/>
+        <conversation conversationId="09ee3e5a-b8c3-4e3c-a454-b8a597c8d55e" creationDate="2026-02-19T18:12:09.797788100Z" lastMessageDate="2026-02-19T18:12:19.072197300Z" title="Fixing PaymentController Initialization Error"/>
+        <conversation conversationId="81b7a644-69c2-430c-8f89-0eaf9d922369" creationDate="2026-02-22T17:51:33.767230200Z" lastMessageDate="2026-02-22T17:51:40.947597500Z" title="Error Checking in PaymentController"/>
+        <conversation conversationId="da691774-9b9c-4845-95c1-ac9d49e3f2d7" creationDate="2026-02-23T09:43:42.903693500Z" lastMessageDate="2026-02-23T09:44:01.961030600Z" title="not getting the issue in pAYMENTSERVICE"/>
+        <conversation conversationId="c5453eb0-fdea-4617-b25c-4b02afd25bdb" creationDate="2026-02-28T07:53:26.962956700Z" lastMessageDate="2026-02-28T07:53:30.294255300Z" title="create all jsonutillclass @component includes two ..."/>
+        <conversation conversationId="662c5a65-aa97-4b98-aea1-8dacb68feca4" creationDate="2026-03-07T10:56:44.190828800Z" lastMessageDate="2026-03-07T11:07:06.244856100Z" title="Implementing Error Handling with ErrorResponse and Validation"/>
+    </conversations>
+</user>

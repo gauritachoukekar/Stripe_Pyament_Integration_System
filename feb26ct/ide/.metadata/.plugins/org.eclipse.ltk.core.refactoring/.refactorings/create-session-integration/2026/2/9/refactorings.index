@@ -1,0 +1,9 @@
+1771822090456	Delete element
+1771822550675	Delete element
+1771935121165	Extract method 'prepareStripeCreateSessionRequest'
+1771945683670	Extract local variable 'StripeApiKey'
+1771953110723	Extract local variable 'stripeCreateSessionUrl'
+1771953502049	Extract constant 'CREATE_SESSION_MODE'
+1771953563017	Extract constant 'SUCCESS_URL'
+1772266173768	Rename type 'CheckoutSessionResponse'
+1772275569836	Delete element
