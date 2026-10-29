@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;stripe-provider-service-initial-setup&apos;" deleteContents="false" description="Delete resource &apos;stripe-provider-service-initial-setup&apos;" element1="/stripe-provider-service-initial-setup" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1771265682008"/>&#x0A;<refactoring comment="Delete resource &apos;stripe-provider-service&apos;" deleteContents="false" description="Delete resource &apos;stripe-provider-service&apos;" element1="/stripe-provider-service" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1771520792101"/>
-</session>
